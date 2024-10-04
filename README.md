@@ -36,8 +36,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=princepatel4423d&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
+<img width="600px" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical">
 
 ---
 
